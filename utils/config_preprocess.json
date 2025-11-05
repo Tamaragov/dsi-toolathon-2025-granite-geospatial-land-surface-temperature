@@ -4,7 +4,7 @@
         "cities":{
             "buffer": 0.0,
             "data_save_dir": "../data/processed_data/", 
-            "city_names": ["abuja_nga", "durban_zaf", "cape-town_zaf", "johannesburg_zaf"]
+            "city_names": ["cape-town_zaf"]
         },
         "hls_processing":{
             "hls_downloads": "../data/downloaded_data/hls/",
